@@ -11,6 +11,8 @@ The Hyperpixel 4 Mount for Voron 2.4 is a full solution for mounting the Hyperpi
 
 The solution includes several 3D printable parts, a full visual manual, Hyperpixel configuration for Klipper Screen and more.
 
+<img width="2053" alt="Example Image - CAD" src="https://user-images.githubusercontent.com/58088168/210150665-1d2ba202-fe59-42b3-9007-f21a1bc74fc6.png">
+
 ## What's included in the repo?
 - **STL files** - All the printed parts
 - **STEP file** - Should you wish to modify or create your own variant
