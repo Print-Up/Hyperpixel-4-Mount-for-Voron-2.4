@@ -96,7 +96,7 @@ Thank you to @jacyhung for this solution who originally provided it on an issue 
 
 ## Share your build photos with us! 📸
 
-Please share your build photos with us here. 
+Please share your build photos with us here. https://forms.gle/cWr6mDuEVakhQoQE9 
 
 We won't post anything unless you grant us permission to do so! 
 
