@@ -117,3 +117,7 @@ Distributed under GNU General Public License version 3.0 (GPLv3)
 ## How to get in contact with us
 
 Should you have any questions, changes, or issues about this repo or you just want to say hi, drop us an email here - **info@printup.xyz**
+
+Our Director is also on Discord - Phalnix#3899
+
+We'll have our own Discord Server later in Mid-Late 2023
