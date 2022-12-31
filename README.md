@@ -64,7 +64,41 @@ dtparam=rotate=90,touchscreen-swapped-x-y,touchscreen-inverted-y
 
 - Save the changes to the `config.txt` file. 
 
-**6. Now we nee
+**6. Now we will create a new file with the following command**
+
+```
+sudo nano /usr/share/X11/xorg.conf.d/monitor.conf
+```
+**7. Add the following to this new file**
+```
+Section "Monitor"
+    Identifier "DPI-1"
+    Option "Rotate" "right"
+EndSection
+```
+> This new file `monitor.conf` will force klipper screen to use the correct screen orientation. Without this the Pi will start with the correct orientation however Klipper screen will default back to the default hyperpixel orientation and not the one defined in `/boot/config.txt`.
+
+Thank you to @jacyhung for this solution who originally provided it on an issue thread here - https://github.com/pimoroni/hyperpixel4/issues/177
+
+**8. Save `monitor.conf`**
+
+- Save this new file. 
+
+**9. Restart your Raspberry Pi**
+
+- We recommend a full printer power cycle to restart your Raspberry Pi
+
+**10. Witness the glory of your new screen! Ain't it beautiful ❤️**
+
+- Thats it, you should now have a working screen that looks fantastic! 
+
+![Hyperpixel Mount - Image for GitHub 1  - 1](https://user-images.githubusercontent.com/58088168/210138461-019df19e-ae77-4082-b618-02178eacfe4c.jpeg)
+
+## Share your build photos with us! 📸
+
+Please share your build photos with us here. 
+
+We won't post anything unless you grant us permission to do so! 
 
 ## How to get in contact with us
 
