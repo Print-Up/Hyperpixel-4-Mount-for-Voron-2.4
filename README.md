@@ -16,6 +16,7 @@ The solution includes several 3D printable parts, a full visual manual, Hyperpix
 - **STEP file** - Should you wish to modify or create your own variant
 - **Install Manual** - For the printed parts
 - **Hyperpixel Config Guide** - for Klipper Screen
+- **Example Images** - So you know what it looks like!
 
 # Install Manual
 
@@ -139,6 +140,8 @@ We would love anyone to contribute to this project, from design variants to cabl
 Thank you to the [Voron Design Team](https://vorondesign.com/) for designing such awesome printers! You guys rock 🤘🏻
 
 Thanks to [Pimoroni](https://shop.pimoroni.com/) for making this awesome screen! Go check them out for more Raspberry Pi and maker goodness 🔩
+
+Thanks to the [Klipper Screen Team](https://klipperscreen.readthedocs.io/en/latest/) for their great solution for interacting with Klipper! 🖥️ 
 
 ## Licence
 
