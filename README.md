@@ -22,7 +22,7 @@ The solution includes several 3D printable parts, a full visual manual, Hyperpix
 
 # Install Manual
 
-The install will guide you through the physical part installation of the project. The Hyperpixel configuration can be found in this ReadMe. 
+The install manual will guide you through the physical part installation of the project. The Hyperpixel configuration can be found in this ReadMe. 
 
 # Bill Of Materials (BOM)
 
