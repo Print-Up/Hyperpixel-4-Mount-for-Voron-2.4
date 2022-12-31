@@ -100,6 +100,16 @@ Please share your build photos with us here. https://forms.gle/cWr6mDuEVakhQoQE9
 
 We won't post anything unless you grant us permission to do so! 
 
+## Contributing
+
+We would love anyone to contribute to this project, from design varients to cable clips, make it yours! 
+
+## Acknowledgements
+
+Thank you to the [Voron Design Team](https://vorondesign.com/) for design such awesome printers! You guys rock 🤘🏻
+
+Thanks to [Pimoroni](https://shop.pimoroni.com/) for making this awesome screen! Go check them out for more Raspberry Pi and maker goodness 🔩
+
 ## How to get in contact with us
 
 Should you have any questions, changes, or issues about this repo or you just want to say hi, drop us an email here - **info@printup.xyz**
