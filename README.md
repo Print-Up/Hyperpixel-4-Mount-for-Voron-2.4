@@ -2,8 +2,17 @@
 
 # Welcome to the Hyperpixel 4 & Raspberry Pi Mount for Voron 2.4 GitHub Repo
 
-###### A quick disclaimer
+###### A quick disclaimer ❗️
 *Please note that Print Up is not affiliated with Voron or the Voron Design Team. We are simply fans of the Voron printers and want to contribute to the open-source community by providing helpful resources and support for these amazing machines.*
+
+###### Repo Updates 💻
+- Last Major Update - 31/12/2022
+- Current Release - V1.0
+
+See update history for more details. 
+
+###### Changes Coming Soon 🗓️
+- Front Facing Keystone for USB (Due to be added 04/01/23)
 
 ## About the Hyperpixel 4 Mount
 
@@ -156,3 +165,10 @@ Should you have any questions, changes, or issues about this repo or you just wa
 Our Director is also on Discord - Phalnix#3899
 
 We'll have our own Discord Server later in Mid-Late 2023
+
+# Update History
+
+We'll try to ensure the updaste history is noted below after every major release. 
+
+- V1.0 (31/12/22)
+    - Not much to say here, just the release of the repo with all the original parts & manual. 
