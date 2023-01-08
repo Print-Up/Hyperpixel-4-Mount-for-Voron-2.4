@@ -12,7 +12,10 @@
 See update history for more details. 
 
 ###### Changes Coming Soon 🗓️
-- Front Facing Keystone for USB (Due to be added 04/01/23)
+- Front Facing Keystone for USB/Ethernet (Due to be added to the main branch by 25/01/23 approx)
+
+###### Alt-Branches
+- V1.1-Testing - Currently testing a Keystone Skirt End Varient (only for the 300/350mm Voron)
 
 ## About the Hyperpixel 4 Mount
 
